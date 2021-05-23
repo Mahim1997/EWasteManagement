@@ -1,4 +1,4 @@
-# EWasteManagement
+# E-Waste Management
 Idea for a virtual platform on recycling Electronic-Wastes (E-Wastes)
 
 ## Flow Chart
